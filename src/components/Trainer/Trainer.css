@@ -1,0 +1,26 @@
+.card-body{
+    padding: 5px;
+    margin: 15px;
+    margin-top: 15px;
+    background-color: rgba(245, 153, 153, 0.836);
+    
+}
+.card-body img{
+    margin: auto;
+    height: 250px;
+}
+
+.addToCartBtn{
+    background-color: rgba(0, 0, 0, 0.911);
+    color: white;
+    border-radius: 10px;
+    
+   
+}
+.fee{
+    color: rgb(15, 15, 15);
+    font-weight: 800;
+}
+.trainer-name{
+    font-weight: 700;
+}

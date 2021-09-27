@@ -1,0 +1,18 @@
+.main-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    
+}
+.trainers-conatiner{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    border-right: 2px solid gray;
+}
+.cart-container{
+    
+    background-color: rgba(231, 13, 13, 0.363);
+    color: white;
+    height: 600px;
+   
+
+}

@@ -1,0 +1,16 @@
+.info{
+    text-align: center;
+    font-weight: 600;
+    padding: 10px;
+    color: rgb(17, 16, 16);
+    margin: 5px;
+}
+.trainer-names{
+    color: black;
+    font-weight: 800;
+    border-radius: 5px;
+}
+.trainer-information{
+    padding-left: 20px;
+    color: black;
+}
